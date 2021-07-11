@@ -7,5 +7,5 @@
 
 # back-end
 /.idea
-db.sqlite3
-manage.py
+# db.sqlite3
+# manage.py
