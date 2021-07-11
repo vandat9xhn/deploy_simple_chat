@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-33m+n@^8*i_=i_=7nt))1qzis=otysay+kv4p98wjc&k+t48zp'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
@@ -138,9 +138,10 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+STATIC_ROOT = os.path.join(BASE_DIR, 'redux_tsc/dist/static')
+
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'redux_tsc/dist/static'),
-    os.path.join(BASE_DIR, 'static'),
 ]
 
 # Default primary key field type
