@@ -1,0 +1,11 @@
+# test
+# /__def_test
+
+# media
+/media
+!/media/**.py
+
+# back-end
+/.idea
+db.sqlite3
+manage.py
