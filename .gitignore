@@ -2,8 +2,7 @@
 # /__def_test
 
 # media
-/media
-!/media/**.py
+# /media
 
 # back-end
 /.idea
