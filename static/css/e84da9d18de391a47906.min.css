@@ -1,6 +1,0 @@
-@media(max-width: 400px){.ChatBdMsLeft img{width:40px;height:40px}}
-.ChatBdMsRight_name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:calc(100vw - 5rem)}.ChatBdMsRight_message{padding:8px;border-radius:10px}.ChatBdMsRight_message-text{white-space:pre-wrap}
-.ChatMidBody{border-bottom:1px solid var(--md-color-secondary)}.ChatMidBody_row{height:calc(100vh - 1rem);overflow-y:auto}.ChatMidBody_item{margin:1rem 0}
-.ChatMidFoot_textarea{max-height:12rem;padding:8px;border-radius:10px;border:none;resize:none;overflow-y:auto}.ChatMidFoot_textarea:focus{outline:none}@media(max-width: 400px){.ChatMidFoot_row{display:block}.ChatMidFoot_right{margin:10px 0 0 0;text-align:end}.ChatMidFoot_right button{padding:5px 16px}}
-.ChatMid{border:1px solid var(--md-color-secondary)}
-.Chat{padding-top:1rem}.Chat_mid{width:750px;max-width:100%}
