@@ -4,5 +4,3 @@
 .ChatMidFoot_textarea{max-height:12rem;padding:8px;border-radius:10px;border:none;resize:none;overflow-y:auto}.ChatMidFoot_textarea:focus{outline:none}@media(max-width: 400px){.ChatMidFoot_row{display:block}.ChatMidFoot_right{margin:10px 0 0 0;text-align:end}.ChatMidFoot_right button{padding:5px 16px}}
 .ChatMid{border:1px solid var(--md-color-secondary)}
 .Chat{padding-top:1rem}.Chat_mid{width:750px;max-width:100%}
-
-/*# sourceMappingURL=fe6a422c85aff0c04415.min.css.map*/

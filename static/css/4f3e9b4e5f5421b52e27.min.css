@@ -2,5 +2,3 @@
 .InputPass{position:relative}.InputPass_eye{position:absolute;top:50%;right:10px;transform:translateY(-50%)}.InputPass_eye-contain{padding:0;cursor:pointer}
 .InputPicture_title{z-index:0;width:100%}
 .Register{padding:52px 0}.Register_form{width:28rem;max-width:100%}.Register_input{margin:1rem 0}.Register_input .InputNotValid_placeholder{background-color:var(--md-bg-primary)}.Register_file{width:15rem;height:15rem;max-width:100%}@media(max-width: 26rem){.Register{padding:0 0}}
-
-/*# sourceMappingURL=4c928cf384f3d99d82c8.min.css.map*/
